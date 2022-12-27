@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5882620-13ec-4d28-b2af-f815827bc2a0" name="Changes" comment="Help!!!!!!!!!!">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EmployeesBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeesBook.java" afterDir="false" />
@@ -21,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -64,7 +68,19 @@
       <workItem from="1671699912303" duration="4267000" />
       <workItem from="1671840765038" duration="5291000" />
       <workItem from="1671928463603" duration="25098000" />
+      <workItem from="1671966083066" duration="2416000" />
+      <workItem from="1672037852857" duration="196000" />
+      <workItem from="1672038098808" duration="3774000" />
+      <workItem from="1672124934025" duration="402000" />
     </task>
+    <task id="LOCAL-00001" summary="Help!!!!!!!!!!">
+      <created>1671966113082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671966113082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
